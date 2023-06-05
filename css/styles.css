@@ -1,0 +1,23 @@
+* {
+  font-family: Georgia, Times, 'Times New Roman', serif;
+  color: black ;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  color: black;
+  font-weight: 500;
+}
+
+a {
+  color: blue;
+  text-decoration: none;
+}
+
+a:hover {
+  color: blueviolet;
+  text-decoration: underline;
+}
